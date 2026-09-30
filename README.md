@@ -1,5 +1,8 @@
 # 好困好累好想你 · Code PV
 
+<p align="center"><img src="docs/preview.gif" width="720" alt="preview"></p>
+<p align="center">🌐 <a href="https://hakouou-0816.github.io/miss-you-code-pv/">在线预览</a> · 🎬 <a href="[VIDEO_URL](https://v.douyin.com/8LBeOjtjnfM/)">观看完整 PV</a></p>
+
 通过Claude Opus5.5生成的，一支「全部由代码画出来」的歌曲 PV：没有素材图、没有剪辑软件，每一帧都是浏览器 Canvas 根据时间 `t` 实时计算出来的。
 
 从主角视角唱出「好困好累好想你」——终端、报错、监控面板、电子游戏、电池充电……所有画面都是程序员熟悉的东西。
