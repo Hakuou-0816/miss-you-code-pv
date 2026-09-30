@@ -1,6 +1,5 @@
 node_modules/
 *.mp4
 frame_*.png
-audio/*.m4a
 audio/*.mp3
 audio/*.wav
