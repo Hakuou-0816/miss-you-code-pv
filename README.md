@@ -12,7 +12,7 @@
 ## 预览
 
 ```bash
-# 把歌曲放到 audio/song.m4a（仓库不含音频），然后在项目目录起一个本地服务器：
+# 把歌曲放到 audio/song.m4a，然后在项目目录起一个本地服务器：
 npx serve .        # 或 python3 -m http.server
 # 浏览器打开 http://localhost:3000 ，点击画面开始播放，空格暂停
 ```
@@ -51,7 +51,6 @@ node tools/render.js audio/song.m4a out.mp4 30
 整个渲染是纯函数式的：`renderAt(t)` 只依赖时间 `t`，所以可以任意跳转、逐帧导出。
 
 ## 致谢与许可
-
 * 歌曲《好困好累好想你》：词曲 ZzZ。歌词与音频版权归原作者所有，本仓库仅用于展示 PV 的实现方式。
 * 字体（均附带原许可证，见 `fonts/licenses/`）：
 
