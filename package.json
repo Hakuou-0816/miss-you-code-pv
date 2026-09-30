@@ -1,0 +1,12 @@
+{
+  "name": "miss-you-code-pv",
+  "version": "1.0.0",
+  "private": true,
+  "description": "《好困好累好想你》代码 PV：全部画面由 Canvas 代码逐帧生成",
+  "scripts": {
+    "render": "node tools/render.js",
+    "snapshot": "node tools/snapshot.js"
+  },
+  "devDependencies": { "playwright": "^1.56.0" },
+  "license": "MIT"
+}
